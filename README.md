@@ -22,3 +22,10 @@ Hurricane either hits or misses their home.
 * Andrew - by Saturday: write a python function risk() that returns the percentage chance that the hurricane is going to hit their house.
 * Jacob - by Sunday: write a python function asset() that returns a highly correlated portfolio and the variance sigma
 * Jimmy/Cam - front end
+
+## Packages
+* QGIS
+* https://developers.google.com/maps/documentation/geocoding/intro#geocoding
+* https://www.nhc.noaa.gov/gis/
+* http://kepler.gl/#/
+* https://gis.stackexchange.com/questions/274381/installing-qgis3-on-mac
