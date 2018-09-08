@@ -19,6 +19,6 @@ Hurricane either hits or misses their home.
 
 ## Division of Labour
 
-Andrew - by Saturday: write a python function risk() that returns the percentage chance that the hurricane is going to hit their house.
-Jacob - by Sunday: write a python function asset() that returns a highly correlated portfolio and the correlation sigma
-Jimmy/Cam - front end
+* Andrew - by Saturday: write a python function risk() that returns the percentage chance that the hurricane is going to hit their house.
+* Jacob - by Sunday: write a python function asset() that returns a highly correlated portfolio and the correlation sigma
+* Jimmy/Cam - front end
