@@ -6,7 +6,7 @@ A personalized insurance product.
 
 ## Assumptions for the project
 
-Hurricane either hits or misses their home/
+Hurricane either hits or misses their home.
 
 ## Description of Mockup
 
@@ -19,4 +19,6 @@ Hurricane either hits or misses their home/
 
 ## Division of Labour
 
-Andrew - by Saturday: write a function 
+Andrew - by Saturday: write a python function risk() that returns the percentage chance that the hurricane is going to hit their house.
+Jacob - by Sunday: write a python function asset() that returns a highly correlated portfolio and the correlation sigma
+Jimmy/Cam - front end
