@@ -12,7 +12,7 @@ A personalized short-term home insurance product for hurricane.
 
 For PennApps we will build out a case study and backtest on one event: Hurricane Ike (2008). We will pretend it is September 10, 2008 at 1200 UTC; three days before landfall in Texas.
 
-![ike data][present.png]
+![ike data](present.png)
 
 ## Assumptions for the project
 
