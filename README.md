@@ -1,4 +1,4 @@
-# misc
+# Images, Planning, and Discussion
 
 ## Summary
 
